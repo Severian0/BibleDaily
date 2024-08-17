@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Bible Reading & Catholic Missal Art",
+    "version": "1.0",
+    "description": "Shows a random Bible reading with Catholic missal art and a link to full reading and commentary.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "cross16.png",
+        "48": "cross48.png",
+        "128": "cross128.png"
+      }
+    },
+    "permissions": [
+      "tabs"
+    ]
+  }
+  
